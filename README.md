@@ -1,20 +1,42 @@
-# Starlight Starter Kit: Basics
+
+<div align="center">
+
+<img src="https://github.com/Orna-Brasil/Assets/blob/main/logobr.png?raw=true" alt="Orna BR logo" width="200px" />
+
+## Orwik
+
+
+</div>
+
+
+## Sobre o Projeto
+
+**Orwik** é um site no estilo documentação que contém informações detalhadas sobre o jogo Orna Geo-RPG. Neste repositório, você encontrará dicas, informações sobre edifícios, guias, atalhos e muito mais, tudo projetado para melhorar sua experiência no mundo de Orna. 
+
+## Como Usar
+
+Você pode acessar a documentação em [Orwik](https://orwik.noxian.dev/), onde encontrará informações sobre:
+
+- Dicas para Iniciantes
+- Descrições de Edifícios
+- Guias
+- Atalhos
+
+## Contribuindo
+
+Agradecemos qualquer contribuição para melhorar esta documentação. Se você quiser adicionar informações, corrigir erros ou melhorar o layout, siga estas etapas:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch com uma descrição significativa: `git checkout -b sua-nova-feature`.
+3. Faça suas alterações e documente-as adequadamente.
+4. Envie suas alterações: `git push origin sua-nova-feature`.
+5. Abra uma solicitação pull descrevendo suas alterações.
+
+## Estrutura do projeto
+
+Dentro do seu projeto Astro + Starlight, você verá as seguintes pastas e arquivos:
 
 ```
-npm create astro@latest -- --template starlight
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
 ├── public/
 ├── src/
 │   ├── assets/
@@ -27,25 +49,26 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+O Starlight procura por arquivos `.md` ou `.mdx` no diretório `src/content/docs/`. Cada arquivo é exposto como uma rota com base em seu nome de arquivo.
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+Imagens podem ser adicionadas em `src/assets/` e incorporadas em Markdown com um link relativo.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+Recursos estáticos, como favicons, podem ser colocados no diretório `public/`.
 
-## 🧞 Commands
+## Comandos
 
-All commands are run from the root of the project, from a terminal:
+Todos os comandos são executados a partir da raiz do projeto, em um terminal:
 
-| Command                   | Action                                           |
+| Comando                   | Ação                                             |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm install`             | Instala as dependências                          |
+| `npm run dev`             | Inicia o servidor de desenvolvimento local em `localhost:4321`|
+| `npm run build`           | Constrói o seu site produção em `./dist/`        |
+| `npm run preview`         | Pré-visualize a sua compilação localmente, antes de implantar |
+| `npm run astro ...`       | Execute comandos da CLI como `astro add`, `astro check` |
+| `npm run astro -- --help` | Obtenha ajuda usando a CLI do Astro                     |
 
-## 👀 Want to learn more?
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) - consulte o arquivo LICENSE.md para obter detalhes.
