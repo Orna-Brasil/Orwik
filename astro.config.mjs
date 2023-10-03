@@ -19,7 +19,7 @@ export default defineConfig({
 			},
 			social: {
 				github: 'https://github.com/Orna-Brasil',
-				discord: 'https://discord.gg/RyaBMYVmQV',
+				telegram: 'https://t.me/OrnaBrasil'
 			},
 			head: [
 				{
