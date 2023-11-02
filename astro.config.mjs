@@ -23,16 +23,6 @@ export default defineConfig({
 				github: 'https://github.com/Orna-Brasil',
 				telegram: 'https://t.me/OrnaBrasil'
 			},
-			head: [
-				{
-					tag: 'meta',
-					attrs: { property: 'og:image', content: site + 'og.svg' },
-				},
-				{
-					tag: 'meta',
-					attrs: { property: 'twitter:image', content: site + 'og.svg' },
-				},
-			],
 			customCss: ['./src/styles/custom.css'],
 			locales,
 			sidebar: sidebar,
