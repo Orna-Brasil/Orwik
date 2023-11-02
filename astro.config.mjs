@@ -16,8 +16,8 @@ export default defineConfig({
 		starlight({
 			title: 'Orwik',
 			logo: {
-				light: '/src/assets/compass.svg',
-				dark: '/src/assets/compass.svg',
+				light: '/src/assets/light-compass.svg',
+				dark: '/src/assets/dark-compass.svg',
 			},
 			social: {
 				github: 'https://github.com/Orna-Brasil',
