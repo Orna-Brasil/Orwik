@@ -4,7 +4,7 @@ description: Cabeça de Abóbora, Cabeça de Abóbora! Descubra a estranha hist�
 tableOfContents: false
 sidebar:
  badge:
-    text: Novo!
+    text: Encerrado
     variant: tip
 ---
 
