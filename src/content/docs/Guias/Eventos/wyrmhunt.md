@@ -10,7 +10,7 @@ sidebar:
 
 :::caution[Evento encerrado]
 
-O evento ocorreu no período de agosto de 2023, mas manteremos aqui para fins de histórico. Talvez volte no futuro.
+O evento ocorreu no período de Agosto de 2023, mas manteremos aqui para fins de histórico. Talvez volte no futuro.
 
 :::
 
