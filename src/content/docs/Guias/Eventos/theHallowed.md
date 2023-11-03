@@ -8,6 +8,12 @@ sidebar:
     variant: danger
 ---
 
+:::caution[Evento encerrado]
+
+O evento ocorreu no período de outubro de 2023, mas manteremos aqui para fins de histórico. Talvez volte no futuro.
+
+:::
+
 
 Boo! É o mês assustador! Pumpkinhead voltou e trouxe seus amigos de doces e travessuras! Há mais neste evento do que havia, então olhe ao redor...
 
