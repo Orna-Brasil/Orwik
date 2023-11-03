@@ -5,7 +5,7 @@ tableOfContents: false
 sidebar:
  badge:
     text: Encerrado
-    variant: tip
+    variant: danger
 ---
 
 
