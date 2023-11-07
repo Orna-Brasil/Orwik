@@ -23,7 +23,7 @@ Ao ativar o sistema de Anguish, você passará a receber Proofs of Anguish ao de
 
 ### Tabela de bônus por nível de Anguish:
 
-![Tabela de bônus](https://cdn.discordapp.com/attachments/966231961091854387/1126198508802822275/image.png)
+![Tabela de bônus](https://raw.githubusercontent.com/Orna-Brasil/Assets/main/infograficos/anguish.png)
 
 :::note[Termos em Português]
 - Circle of Anguish - Círculo da Angústia
