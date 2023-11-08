@@ -1,7 +1,7 @@
 export const sidebar = [
     {
         label: 'Informações Gerais',
-        autogenerate: { directory: 'Informações-gerais' },
+        autogenerate: { directory: 'Info' },
         collapsed: true,
     },
     {
@@ -16,12 +16,12 @@ export const sidebar = [
     },
     {
         label: 'Notas de atualização',
-        autogenerate: { directory: 'updatenotes' },
+        autogenerate: { directory: 'Updates' },
         collapsed: true,
     },
     {
         label: 'Mundo Orna',
-        autogenerate: { directory: 'Mundo-Orna' },
+        autogenerate: { directory: 'Mundo' },
         collapsed: true,
     }
 ]
