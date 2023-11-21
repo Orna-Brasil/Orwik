@@ -1,5 +1,5 @@
 ---
-title: Infográficos do Orna
+title: Infográficos
 description: Diversos infográficos para compartilhar com os jogadores
 tableOfContents: false
 ---

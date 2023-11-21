@@ -1,5 +1,5 @@
 ---
-title: GPS no Orna
+title: GPS
 description: Como funciona o GPS no Orna?
 ---
 

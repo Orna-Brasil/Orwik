@@ -7,7 +7,7 @@ tableOfContents: false
 Este guia tem como objetivo mostrar o que são relíquias e como dividir
 
 ### O que são relíquias?
-relíquias são aqueles itens legais que você consegue ao caçar memórias usando mnemônicos, por mais que pareça, eles não são aleatórios, e com um pouco de cuidado é possível "farmar" eles.
+Relíquias são aqueles itens legais que você consegue ao caçar memórias usando mnemônicos, por mais que pareça, eles não são aleatórios, e com um pouco de cuidado é possível "farmar" eles.
 
 ### Como funciona a seed das relíquias?
 Para obter a mesma relíquias que outros jogadores, é necessário estar na mesma party, e finalizar sua busca (ou seja, chegar na etapa final, entrar na "bruxa" e selecionar uma resposta) na mesma hora em que o outro jogador adquiriu a relíquia que você quer.

@@ -1,5 +1,5 @@
 ---
-title: Atalhos dentro do jogo
+title: Atalhos
 description: Aqui você encontra atalhos disponíveis dentro do jogo.
 ---
 
