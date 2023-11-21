@@ -1,6 +1,6 @@
 ---
 title: Refinaria
-description: test
+description: Edifício para refinamento de materiais
 tableOfContents: false
 ---
 
